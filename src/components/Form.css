@@ -1,0 +1,23 @@
+.newUserForm {
+    color: white;
+    background-color: grey;
+    height: auto;
+}
+.input {
+    display: flex;
+    flex-direction: row;
+    margin: auto 40%;
+}
+
+
+.check {
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    justify-content: center;
+}
+
+.list {
+    background-color: turquoise;
+    color: black;
+}
